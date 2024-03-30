@@ -8,6 +8,5 @@ void main(void){
     input(&m, &n);
     v = calcu(m, n);
     printf("value = %.2lf\n\n", v);
-
-
 }
+printf("congratulations! the program run finished");
